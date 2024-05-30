@@ -643,6 +643,7 @@ ul {
 .footer {
   background-color: #191919;
   padding: 70px 0 0;
+  border-top: 10px #191919;
 }
 @media (max-width: 767px) {
   .footer {
